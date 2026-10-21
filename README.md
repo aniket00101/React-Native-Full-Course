@@ -8,4 +8,9 @@ cd MyApp57
 
 
 Run the expo go
-npx expo start -c
+npx expo start
+
+
+for styling android app we use nativewindcss:
+
+To Install command for nativewind: npx rn-new@latest --nativewind
